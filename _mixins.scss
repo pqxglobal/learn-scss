@@ -1,0 +1,15 @@
+@mixin dark {
+  background-color: black;
+  color:white;
+  .title {
+    font-size: calc($default-font-size * 4)
+  }
+}
+
+.box1 {
+  @include dark;
+}
+
+.box2 {
+  @include dark;
+}

@@ -1,0 +1,44 @@
+.panel {
+  background-color: red;
+}
+
+.panel .title {
+  font-size: 2rem;
+}
+
+.panel .body {
+  color: gray;
+}
+
+.panel .body b {
+  color: #00f;
+}
+
+.panel .footer {
+  font-size: .5rem;
+}
+
+.box1 {
+  color: #fff;
+  background-color: #000;
+}
+
+.box1 .title {
+  font-size: 4rem;
+}
+
+.box2 {
+  color: #fff;
+  background-color: #000;
+}
+
+.box2 .title {
+  font-size: 4rem;
+}
+
+.test {
+  background-color: red;
+  margin-bottom: 1rem;
+}
+
+/*# sourceMappingURL=index.ac93e151.css.map */

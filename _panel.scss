@@ -1,0 +1,15 @@
+.panel {
+  background-color: $main-color;
+  .title {
+    font-size: calc($default-font-size * 2);
+  }
+  .body {
+    color: grey;
+    b {
+      color: blue;
+    }
+  }
+  .footer {
+    font-size: calc($default-font-size / 2);
+  }
+}
