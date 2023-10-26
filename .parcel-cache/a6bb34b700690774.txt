@@ -1,4 +1,4 @@
-5969
+5970
 70K:\Repositories\learn-scss\node_modules\@parcel\runtime-service-worker133427192034217051 1
 39K:\Repositories\learn-scss\package.json133427200873527127 0
 75K:\Repositories\learn-scss\node_modules\caniuse-lite\data\features\http3.js133427192080935396 0
@@ -13,7 +13,7 @@
 48K:\Repositories\learn-scss\node_modules\css-what133427192049861255 1
 87K:\Repositories\learn-scss\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.h133427192073890126 0
 74K:\Repositories\learn-scss\node_modules\css-tree\cjs\syntax\node\Block.cjs133427192046556566 0
-31K:\Repositories\learn-scss\dist133427529415790138 1
+31K:\Repositories\learn-scss\dist133427785096135097 1
 117K:\Repositories\learn-scss\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133427192069798071 0
 44K:\Repositories\learn-scss\node_modules\csso133427192070676226 1
 115K:\Repositories\learn-scss\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js133427192033827060 0
@@ -95,7 +95,7 @@
 57K:\Repositories\learn-scss\node_modules\binary-extensions133427200865445251 1
 64K:\Repositories\learn-scss\node_modules\postcss-value-parser\lib133427192041624408 1
 74K:\Repositories\learn-scss\node_modules\csso\cjs\replace\property\font.cjs133427192050731241 0
-42K:\Repositories\learn-scss\scss\index.scss133427513589335775 0
+42K:\Repositories\learn-scss\scss\index.scss133427781854350406 0
 79K:\Repositories\learn-scss\node_modules\caniuse-lite\data\features\dragndrop.js133427192078860137 0
 97K:\Repositories\learn-scss\node_modules\csso\node_modules\css-tree\lib\syntax\node\index-parse.js133427192076070133 0
 60K:\Repositories\learn-scss\node_modules\escape-string-regexp133427192033757050 1
@@ -120,8 +120,11 @@
 92K:\Repositories\learn-scss\node_modules\csso\node_modules\css-tree\lib\syntax\scope\index.js133427192076350140 0
 75K:\Repositories\learn-scss\node_modules\svgo\plugins\cleanupListOfValues.js133427192048446529 0
 80K:\Repositories\learn-scss\node_modules\@parcel\optimizer-svgo\node_modules\svgo133427192067649811 1
-36K:\Repositories\learn-scss\scss\main133427509154729152 1
+36K:\Repositories\learn-scss\scss\main133427780798285016 1
 85K:\Repositories\learn-scss\node_modules\caniuse-lite\data\features\iframe-seamless.js133427192081065393 0
+80K:\Repositories\learn-scss\node_modules\css-tree\lib\syntax\node\MediaFeature.js133427192077440128 0
+52K:\Repositories\learn-scss\scss\main\_functions.scss133427787186702229 0
+72K:\Repositories\learn-scss\node_modules\node-gyp-build-optional-packages133427192038549983 1
 64K:\Repositories\learn-scss\node_modules\cosmiconfig\dist\util.js133427192041224428 0
 65K:\Repositories\learn-scss\node_modules\css-tree\dist\version.cjs133427192073890126 0
 49K:\Repositories\learn-scss\scss\main\_mixins.scss133427529883281491 0
@@ -132,14 +135,14 @@
 71K:\Repositories\learn-scss\node_modules\caniuse-lite\data\regions\MC.js133427192114705428 0
 77K:\Repositories\learn-scss\node_modules\css-tree\lib\syntax\node\Dimension.js133427192075690132 0
 84K:\Repositories\learn-scss\node_modules\caniuse-lite\data\features\filereadersync.js133427192079745398 0
-52K:\Repositories\learn-scss\scss\main\_variables.scss133427511450444839 0
+52K:\Repositories\learn-scss\scss\main\_variables.scss133427709207187525 0
 69K:\Repositories\learn-scss\node_modules\update-browserslist-db\cli.js133427192033157042 0
 98K:\Repositories\learn-scss\node_modules\@swc\helpers\_\_class_apply_descriptor_update\package.json133427192076340130 0
 55K:\Repositories\learn-scss\node_modules\tslib\README.md133427192041544416 0
 77K:\Repositories\learn-scss\node_modules\caniuse-lite\data\features\svg-css.js133427192126162223 0
 65K:\Repositories\learn-scss\node_modules\htmlnano\lib\htmlnano.mjs133427192067843482 0
 71K:\Repositories\learn-scss\node_modules\caniuse-lite\data\regions\PL.js133427192123563171 0
-52K:\Repositories\learn-scss\scss\elements\_boxes.scss133427530915686231 0
+52K:\Repositories\learn-scss\scss\elements\_boxes.scss133427531561155431 0
 91K:\Repositories\learn-scss\node_modules\csso\node_modules\css-tree\cjs\convertor\create.cjs133427192050161261 0
 89K:\Repositories\learn-scss\node_modules\csso\node_modules\css-tree\lib\tokenizer\types.js133427192079305390 0
 49K:\Repositories\learn-scss\node_modules\callsites133427192034577061 1
@@ -166,7 +169,7 @@
 62K:\Repositories\learn-scss\node_modules\css-tree\dist\data.cjs133427192052331242 0
 79K:\Repositories\learn-scss\node_modules\@swc\helpers\src\_apply_decs_2203_r.mjs133427192078760137 0
 86K:\Repositories\learn-scss\node_modules\@swc\helpers\cjs\_class_private_method_set.cjs133427192051951237 0
-51K:\Repositories\learn-scss\scss\elements\_test.scss133427510038089371 0
+51K:\Repositories\learn-scss\scss\elements\_test.scss133427784829543855 0
 84K:\Repositories\learn-scss\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133427192041604424 0
 68K:\Repositories\learn-scss\node_modules\css-tree\lib\utils\string.js133427192079445404 0
 74K:\Repositories\learn-scss\node_modules\source-map-js\lib\binary-search.js133427192036477174 0
@@ -282,12 +285,6 @@
 87K:\Repositories\learn-scss\node_modules\caniuse-lite\data\features\css-text-box-trim.js133427192077920125 0
 60K:\Repositories\learn-scss\node_modules\@parcel\core\LICENSE133427192049451256 0
 45K:\Repositories\learn-scss\node_modules\clone133427192037447045 1
-65K:\Repositories\learn-scss\node_modules\is-arrayish\.editorconfig133427192039156458 0
-44K:\Repositories\learn-scss\node_modules\svgo133427192066196993 1
-51K:\Repositories\learn-scss\node_modules\glob-parent133427200865395256 1
-83K:\Repositories\learn-scss\node_modules\caniuse-lite\data\features\server-timing.js133427192124243179 0
-53K:\Repositories\learn-scss\node_modules\tslib\modules133427192047606542 1
-93K:\Repositories\learn-scss\node_modules\caniuse-lite\data\features\focusin-focusout-events.js133427192079915389 0
 61K:\Repositories\learn-scss\node_modules\mdn-data\api\index.js133427192026609891 0
 83K:\Repositories\learn-scss\node_modules\@swc\helpers\_\_possible_constructor_return133427192078090132 1
 88K:\Repositories\learn-scss\node_modules\csso\cjs\restructure\prepare\processSelector.cjs133427192052161252 0
@@ -342,6 +339,12 @@
 49K:\Repositories\learn-scss\node_modules\csso\dist133427192070446234 1
 69K:\Repositories\learn-scss\node_modules\domutils\lib\helpers.d.ts.map133427192047826546 0
 68K:\Repositories\learn-scss\node_modules\svgo\plugins\minifyStyles.js133427192051721275 0
+65K:\Repositories\learn-scss\node_modules\is-arrayish\.editorconfig133427192039156458 0
+44K:\Repositories\learn-scss\node_modules\svgo133427192066196993 1
+51K:\Repositories\learn-scss\node_modules\glob-parent133427200865395256 1
+83K:\Repositories\learn-scss\node_modules\caniuse-lite\data\features\server-timing.js133427192124243179 0
+53K:\Repositories\learn-scss\node_modules\tslib\modules133427192047606542 1
+93K:\Repositories\learn-scss\node_modules\caniuse-lite\data\features\focusin-focusout-events.js133427192079915389 0
 47K:\Repositories\learn-scss\node_modules\globals133427192038329543 1
 63K:\Repositories\learn-scss\node_modules\react-refresh\README.md133427192046596539 0
 61K:\Repositories\learn-scss\node_modules\svgo\lib\svgo-node.js133427192057551226 0
@@ -477,7 +480,6 @@
 93K:\Repositories\learn-scss\node_modules\abortcontroller-polyfill\dist\polyfill-patch-fetch.js133427192042174392 0
 63K:\Repositories\learn-scss\node_modules\domutils\lib\helpers.js133427192033267077 0
 54K:\Repositories\learn-scss\node_modules\node-addon-api133427192050221242 1
-72K:\Repositories\learn-scss\node_modules\node-gyp-build-optional-packages133427192038549983 1
 99K:\Repositories\learn-scss\node_modules\csso\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js133427192073880139 0
 54K:\Repositories\learn-scss\node_modules\normalize-path133427200865355241 1
 77K:\Repositories\learn-scss\node_modules\csso\lib\replace\AttributeSelector.js133427192056431266 0
@@ -3277,7 +3279,6 @@
 88K:\Repositories\learn-scss\node_modules\@parcel\core\test\fixtures\common-targets-ignore133427192076430133 1
 88K:\Repositories\learn-scss\node_modules\css-tree\lib\syntax\node\index-parse-selector.js133427192076290133 0
 67K:\Repositories\learn-scss\node_modules\css-tree\cjs\utils\List.cjs133427192065041241 0
-80K:\Repositories\learn-scss\node_modules\css-tree\lib\syntax\node\MediaFeature.js133427192077440128 0
 71K:\Repositories\learn-scss\node_modules\css-tree\lib\syntax\node\Nth.js133427192077610153 0
 89K:\Repositories\learn-scss\node_modules\css-tree\cjs\syntax\node\index-parse-selector.cjs133427192056701246 0
 78K:\Repositories\learn-scss\node_modules\css-tree\lib\syntax\node\Percentage.js133427192079020131 0
@@ -3775,7 +3776,7 @@
 88K:\Repositories\learn-scss\node_modules\@parcel\core\lib\requests\WriteBundlesRequest.js133427192076270133 0
 62K:\Repositories\learn-scss\node_modules\commander\CHANGELOG.md133427192038154191 0
 85K:\Repositories\learn-scss\node_modules\caniuse-lite\data\features\css-transitions.js133427192078010145 0
-42K:\Repositories\learn-scss\dist\index.html133427524029007393 0
+42K:\Repositories\learn-scss\dist\index.html133427785096125079 0
 70K:\Repositories\learn-scss\node_modules\@parcel\graph\test\integration133427192027229889 1
 57K:\Repositories\learn-scss\node_modules\commander\esm.mjs133427192041534417 0
 102K:\Repositories\learn-scss\node_modules\@parcel\core\test\fixtures\invalid-source-missing\package.json133427192076720136 0
@@ -4745,7 +4746,7 @@
 88K:\Repositories\learn-scss\node_modules\@swc\helpers\cjs\_class_private_field_update.cjs133427192051491259 0
 100K:\Repositories\learn-scss\node_modules\@swc\helpers\cjs\_class_static_private_field_destructure.cjs133427192052101250 0
 97K:\Repositories\learn-scss\node_modules\@swc\helpers\cjs\_class_static_private_field_spec_set.cjs133427192052351255 0
-58K:\Repositories\learn-scss\dist\learn-scss.3464ddca.js.map133427524028387401 0
+58K:\Repositories\learn-scss\dist\learn-scss.3464ddca.js.map133427785088561840 0
 71K:\Repositories\learn-scss\node_modules\.bin\update-browserslist-db.ps1133427192127990863 0
 114K:\Repositories\learn-scss\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeRasterImages.js133427192056511254 0
 63K:\Repositories\learn-scss\node_modules\@parcel\workers\LICENSE133427192023539890 0
@@ -5074,7 +5075,7 @@
 70K:\Repositories\learn-scss\node_modules\@parcel\runtime-js\lib\helpers133427192051291251 1
 80K:\Repositories\learn-scss\node_modules\@parcel\core\lib\requests\PathRequest.js133427192073430124 0
 84K:\Repositories\learn-scss\node_modules\@parcel\runtime-js\lib\helpers\bundle-url.js133427192037487047 0
-54K:\Repositories\learn-scss\dist\learn-scss.3464ddca.js133427524028317390 0
+54K:\Repositories\learn-scss\dist\learn-scss.3464ddca.js133427785088481814 0
 88K:\Repositories\learn-scss\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js133427192049381256 0
 90K:\Repositories\learn-scss\node_modules\@parcel\runtime-js\lib\helpers\worker\js-loader.js133427192051401255 0
 92K:\Repositories\learn-scss\node_modules\@parcel\runtime-js\lib\helpers\worker\wasm-loader.js133427192054011259 0
@@ -5966,5 +5967,5 @@
 49K:\Repositories\learn-scss\node_modules\.bin\svgo133427192127990863 0
 53K:\Repositories\learn-scss\node_modules\.bin\svgo.cmd133427192127990863 0
 53K:\Repositories\learn-scss\node_modules\.bin\svgo.ps1133427192127990863 0
-50K:\Repositories\learn-scss\dist\index.84046806.css133427529415700080 0
-54K:\Repositories\learn-scss\dist\index.84046806.css.map133427529415780106 0
+50K:\Repositories\learn-scss\dist\index.84046806.css133427785095887482 0
+54K:\Repositories\learn-scss\dist\index.84046806.css.map133427785095907483 0

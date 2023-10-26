@@ -1,5 +1,5 @@
 .panel {
-  background-color: #8cc08c;
+  background-color: #d2a486;
 }
 
 .panel .title {
@@ -19,8 +19,13 @@
 }
 
 .test {
-  background-color: #8cc08c;
+  color: #ef14ef;
+  background-color: #d2a486;
   margin-bottom: 1rem;
+}
+
+.test:hover {
+  background-color: #7d4e2f;
 }
 
 .box1 {

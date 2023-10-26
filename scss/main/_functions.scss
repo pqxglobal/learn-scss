@@ -1,0 +1,7 @@
+@function makedarker($darker-amount: 80%) {
+  @return -$darker-amount;
+}
+
+@function make-red($color: red) {
+  @return scale-color($color, $lightness: makedarker(40%));
+}

@@ -1,4 +1,8 @@
 .test {
   background-color: $main-color;
   margin-bottom: $default-bottom-margin;
+  &:hover {
+    background-color: scale-color($main-color, $lightness: -50%);
+  }
+  color: make-red(rgb(250, 182, 250))
 }
