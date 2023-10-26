@@ -1,5 +1,5 @@
 .panel {
-  background-color: green;
+  background-color: #8cc08c;
 }
 
 .panel .title {
@@ -18,6 +18,11 @@
   font-size: .5rem;
 }
 
+.test {
+  background-color: #8cc08c;
+  margin-bottom: 1rem;
+}
+
 .box1 {
   color: #fff;
   background-color: #000;
@@ -25,6 +30,15 @@
 
 .box1 .title {
   font-size: 4rem;
+}
+
+.box1 .gift p {
+  color: purple;
+}
+
+.box1 .gift section {
+  color: orange;
+  font-size: .5rem;
 }
 
 .box2 {
@@ -36,9 +50,13 @@
   font-size: 4rem;
 }
 
-.test {
-  background-color: green;
-  margin-bottom: 1rem;
+.box2 .gift p {
+  color: purple;
 }
 
-/*# sourceMappingURL=index.ac93e151.css.map */
+.box2 .gift section {
+  color: #0ff;
+  font-size: 1rem;
+}
+
+/*# sourceMappingURL=index.84046806.css.map */

@@ -1,0 +1,19 @@
+@mixin dark {
+  background-color: black;
+  color: white;
+  .title {
+    font-size: calc($default-font-size * 4);
+  }
+}
+
+@mixin box-gifts($section-color: orange, $section-font-size: 1rem) {
+  .gift {
+    p {
+      color: purple;
+    }
+    section {
+      color: $section-color;
+      font-size: $section-font-size;
+    }
+  }
+}

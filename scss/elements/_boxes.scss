@@ -1,0 +1,9 @@
+.box1 {
+  @include dark;
+  @include box-gifts($section-font-size: .5rem);
+}
+
+.box2 {
+  @include dark;
+  @include box-gifts(aqua);
+}
