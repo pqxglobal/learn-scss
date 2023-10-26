@@ -3,15 +3,6 @@
 // @import 'main/mixins', 'main/functions';
 // @import 'elements/panel', 'elements/test', 'elements/boxes';
 
-@mixin title($color: green, $text: 'unknown') {
-  font-size: 2rem;
-  @content;
-
-  .title-#{$text} {
-    color: $color;
-  }
-}
-
 .test {
-  @include title(orange, 'orange');
+  
 }
