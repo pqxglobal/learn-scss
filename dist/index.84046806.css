@@ -1,67 +1,9 @@
-.panel {
-  background-color: #d2a486;
-}
-
-.panel .title {
+.test {
   font-size: 2rem;
 }
 
-.panel .body {
-  color: gray;
-}
-
-.panel .body b {
-  color: #00f;
-}
-
-.panel .footer {
-  font-size: .5rem;
-}
-
-.test {
-  color: #ef14ef;
-  background-color: #d2a486;
-  margin-bottom: 1rem;
-}
-
-.test:hover {
-  background-color: #7d4e2f;
-}
-
-.box1 {
-  color: #fff;
-  background-color: #000;
-}
-
-.box1 .title {
-  font-size: 4rem;
-}
-
-.box1 .gift p {
-  color: purple;
-}
-
-.box1 .gift section {
+.test .title-orange {
   color: orange;
-  font-size: .5rem;
-}
-
-.box2 {
-  color: #fff;
-  background-color: #000;
-}
-
-.box2 .title {
-  font-size: 4rem;
-}
-
-.box2 .gift p {
-  color: purple;
-}
-
-.box2 .gift section {
-  color: #0ff;
-  font-size: 1rem;
 }
 
 /*# sourceMappingURL=index.84046806.css.map */
