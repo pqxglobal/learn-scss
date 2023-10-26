@@ -3,6 +3,11 @@
 // @import 'main/mixins', 'main/functions';
 // @import 'elements/panel', 'elements/test', 'elements/boxes';
 
-.test {
-  
+%title {
+  color: red;
+  font-size: 2rem;
+}
+
+.title-small {
+  font-size: 0.5rem;
 }
