@@ -3,11 +3,10 @@
 // @import 'main/mixins', 'main/functions';
 // @import 'elements/panel', 'elements/test', 'elements/boxes';
 
-%title {
-  color: red;
-  font-size: 2rem;
-}
+$columns: 1,2,3,4,5,7;
 
-.title-small {
-  font-size: 0.5rem;
+@each $col in $columns {
+  .col-size-#{$col} {
+    flex:1;
+  }
 }

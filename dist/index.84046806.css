@@ -1,5 +1,5 @@
-.title-small {
-  font-size: .5rem;
+.col-size-1, .col-size-2, .col-size-3, .col-size-4, .col-size-5, .col-size-7 {
+  flex: 1;
 }
 
 /*# sourceMappingURL=index.84046806.css.map */
