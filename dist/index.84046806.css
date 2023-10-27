@@ -50,4 +50,20 @@
   width: 8.33333%;
 }
 
+.border-black {
+  border: 1px solid #000;
+}
+
+.border-grey {
+  border: 2px solid gray;
+}
+
+.border-green {
+  border: 3px dotted green;
+}
+
+.border-red {
+  border: 1px dotted red;
+}
+
 /*# sourceMappingURL=index.84046806.css.map */

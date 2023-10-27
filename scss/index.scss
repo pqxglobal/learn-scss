@@ -3,9 +3,9 @@
 // @import 'main/mixins', 'main/functions';
 // @import 'elements/panel', 'elements/test', 'elements/boxes';
 
-@use "sass:math";
+@use 'sass:math';
 
-$columns: 12,11,10,9,8,7,6,5,4,3,2,1;
+$columns: 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1;
 // $columns: (
 //   12: 100%,
 //   6: 50%,
@@ -20,5 +20,13 @@ $columns: 12,11,10,9,8,7,6,5,4,3,2,1;
     .col-size-#{$col} {
       width: math.percentage($col / 12);
     }
+  }
+}
+
+$borders: 1px solid black, 2px solid grey, 3px dotted green, 1px dotted red;
+
+@each $size, $style, $color in $borders {
+  .border-#{'' + $color} {
+    border: $size $style $color;
   }
 }
