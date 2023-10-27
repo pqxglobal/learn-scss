@@ -13,7 +13,7 @@
 48K:\Repositories\learn-scss\node_modules\css-what133427192049861255 1
 87K:\Repositories\learn-scss\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.h133427192073890126 0
 74K:\Repositories\learn-scss\node_modules\css-tree\cjs\syntax\node\Block.cjs133427192046556566 0
-31K:\Repositories\learn-scss\dist133428514222247044 1
+31K:\Repositories\learn-scss\dist133428538035912474 1
 117K:\Repositories\learn-scss\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133427192069798071 0
 44K:\Repositories\learn-scss\node_modules\csso133427192070676226 1
 115K:\Repositories\learn-scss\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js133427192033827060 0
@@ -95,7 +95,7 @@
 57K:\Repositories\learn-scss\node_modules\binary-extensions133427200865445251 1
 64K:\Repositories\learn-scss\node_modules\postcss-value-parser\lib133427192041624408 1
 74K:\Repositories\learn-scss\node_modules\csso\cjs\replace\property\font.cjs133427192050731241 0
-42K:\Repositories\learn-scss\scss\index.scss133428516429611857 0
+42K:\Repositories\learn-scss\scss\index.scss133428538724293533 0
 79K:\Repositories\learn-scss\node_modules\caniuse-lite\data\features\dragndrop.js133427192078860137 0
 97K:\Repositories\learn-scss\node_modules\csso\node_modules\css-tree\lib\syntax\node\index-parse.js133427192076070133 0
 60K:\Repositories\learn-scss\node_modules\escape-string-regexp133427192033757050 1
@@ -3776,7 +3776,7 @@
 88K:\Repositories\learn-scss\node_modules\@parcel\core\lib\requests\WriteBundlesRequest.js133427192076270133 0
 62K:\Repositories\learn-scss\node_modules\commander\CHANGELOG.md133427192038154191 0
 85K:\Repositories\learn-scss\node_modules\caniuse-lite\data\features\css-transitions.js133427192078010145 0
-42K:\Repositories\learn-scss\dist\index.html133428514222093512 0
+42K:\Repositories\learn-scss\dist\index.html133428538035902464 0
 70K:\Repositories\learn-scss\node_modules\@parcel\graph\test\integration133427192027229889 1
 57K:\Repositories\learn-scss\node_modules\commander\esm.mjs133427192041534417 0
 102K:\Repositories\learn-scss\node_modules\@parcel\core\test\fixtures\invalid-source-missing\package.json133427192076720136 0
@@ -4746,7 +4746,7 @@
 88K:\Repositories\learn-scss\node_modules\@swc\helpers\cjs\_class_private_field_update.cjs133427192051491259 0
 100K:\Repositories\learn-scss\node_modules\@swc\helpers\cjs\_class_static_private_field_destructure.cjs133427192052101250 0
 97K:\Repositories\learn-scss\node_modules\@swc\helpers\cjs\_class_static_private_field_spec_set.cjs133427192052351255 0
-58K:\Repositories\learn-scss\dist\learn-scss.3464ddca.js.map133428514222237046 0
+58K:\Repositories\learn-scss\dist\learn-scss.3464ddca.js.map133428538035734055 0
 71K:\Repositories\learn-scss\node_modules\.bin\update-browserslist-db.ps1133427192127990863 0
 114K:\Repositories\learn-scss\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeRasterImages.js133427192056511254 0
 63K:\Repositories\learn-scss\node_modules\@parcel\workers\LICENSE133427192023539890 0
@@ -5075,7 +5075,7 @@
 70K:\Repositories\learn-scss\node_modules\@parcel\runtime-js\lib\helpers133427192051291251 1
 80K:\Repositories\learn-scss\node_modules\@parcel\core\lib\requests\PathRequest.js133427192073430124 0
 84K:\Repositories\learn-scss\node_modules\@parcel\runtime-js\lib\helpers\bundle-url.js133427192037487047 0
-54K:\Repositories\learn-scss\dist\learn-scss.3464ddca.js133428514222197063 0
+54K:\Repositories\learn-scss\dist\learn-scss.3464ddca.js133428538035635667 0
 88K:\Repositories\learn-scss\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js133427192049381256 0
 90K:\Repositories\learn-scss\node_modules\@parcel\runtime-js\lib\helpers\worker\js-loader.js133427192051401255 0
 92K:\Repositories\learn-scss\node_modules\@parcel\runtime-js\lib\helpers\worker\wasm-loader.js133427192054011259 0
@@ -5967,5 +5967,5 @@
 49K:\Repositories\learn-scss\node_modules\.bin\svgo133427192127990863 0
 53K:\Repositories\learn-scss\node_modules\.bin\svgo.cmd133427192127990863 0
 53K:\Repositories\learn-scss\node_modules\.bin\svgo.ps1133427192127990863 0
-50K:\Repositories\learn-scss\dist\index.84046806.css133428514222103505 0
-54K:\Repositories\learn-scss\dist\index.84046806.css.map133428514222207054 0
+50K:\Repositories\learn-scss\dist\index.84046806.css133428538035635667 0
+54K:\Repositories\learn-scss\dist\index.84046806.css.map133428538035734055 0

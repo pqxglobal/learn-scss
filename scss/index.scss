@@ -3,20 +3,22 @@
 // @import 'main/mixins', 'main/functions';
 // @import 'elements/panel', 'elements/test', 'elements/boxes';
 
-// $columns: 12,6,4,3;
-$columns: (
-  12: 100%,
-  6: 50%,
-  4: 33.33%,
-  3: 25%,
-  2: 15%,
-);
+@use "sass:math";
+
+$columns: 12,11,10,9,8,7,6,5,4,3,2,1;
+// $columns: (
+//   12: 100%,
+//   6: 50%,
+//   4: 33.33%,
+//   3: 25%,
+//   2: 15%,
+// );
 
 .row {
   display: flex;
-  @each $col, $percent in $columns {
+  @each $col in $columns {
     .col-size-#{$col} {
-      width: $percent;
+      width: math.percentage($col / 12);
     }
   }
 }
